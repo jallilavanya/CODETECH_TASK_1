@@ -41,5 +41,11 @@ JavaScript: Add interactivity and dynamic content using JavaScript.
 
 ![image](https://github.com/user-attachments/assets/6f1fc1eb-acaa-4c05-986c-5072516182cf)
 
+![image](https://github.com/user-attachments/assets/93c77f66-e4fb-4f76-941c-9342b3913c3a)
+
+![image](https://github.com/user-attachments/assets/8a40cffc-6f57-494e-8e61-23ee71d28a86)
+
+
+![image](https://github.com/user-attachments/assets/663f6cff-9689-4060-a30a-9572b5dd248e)
 
 
